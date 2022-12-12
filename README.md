@@ -1,0 +1,1 @@
+# patikaDev_sql_odevleri
